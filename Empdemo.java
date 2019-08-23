@@ -30,7 +30,7 @@ System.out.println("DA of employee = "+da+" and IT of employee = "+it);
 System.out.println("Employee's net salary = "+nsal);
 }
 }
-class Employee
+class Empdemo
 {
 public static void main(String args[])
 {
