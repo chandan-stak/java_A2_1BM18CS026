@@ -73,6 +73,36 @@ ch = sc.nextInt();
 }while(ch!=1);
 }
 }
+/*
+Enter 
+1.Rectangle 
+2.Triangle 
+3.Circle 
+
+2
+Enter base
+15
+Enter height
+20
+Area=150.0
+Enter any value to continue and 1 to exit
+4
+Enter 
+1.Rectangle 
+2.Triangle 
+3.Circle 
+
+3
+Enter radius
+5
+Area=78.5
+Enter any value to continue and 1 to exit
+6
+Enter 
+1.Rectangle 
+2.Triangle 
+3.Circle 
+*/
 
 
 
